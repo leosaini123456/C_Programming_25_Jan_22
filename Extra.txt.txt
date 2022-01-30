@@ -1,0 +1,15 @@
+1. Download Dev C++
+https://sourceforge.net/projects/orwelldevcpp/
+
+2. Create Account On Github
+
+3. Install Git
+https://git-scm.com/downloads
+
+
+4. Once your acount is created
+	
+	1. Create repo
+	2. copy link 
+
+
