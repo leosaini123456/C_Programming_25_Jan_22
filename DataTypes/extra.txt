@@ -2,6 +2,21 @@ DataTypes
 In C Each Variable is Associated with datatypes.
 Each Datatype require different amount of memory and range.
 
+
+1. Primitive / Fundamental Datatypes
+	1. int - interger - 4
+	2. char - character  - 1
+	3. float - real numbers - 4
+	4. double -  real numbers - 8
+
+2. User Define Datatypes
+	1. Array
+	2. Pointer
+	3. Function
+	4. Structure
+	5. Enum 
+	6. Union
+
 int - integer  turbo - 2
 	       Dev --- 4
 
@@ -11,3 +26,4 @@ int a;
 
 memory allocated to variable a = 4byte;
 range -2147483648 to 2147483647
+
